@@ -15,8 +15,7 @@ Ilustração: Storyset
 
 ![vscode badge](https://img.shields.io/badge/Made%20with-VSCode-1f425f.svg)
 
-[![MgNews](https://raw.githubusercontent.com/martageraldo/mgNews/6c68ec03ecb65884e4f97bc4b7180078813d9005/mgnews.svg)](https://martageraldo.github.io/landingpag/)
-
+[![MgNews](https://github.com/martageraldo/landingpag/blob/main/landing%20page%20animada/pag1.jpg?raw=true)](https://martageraldo.github.io/landingpag/)
 
 
 
